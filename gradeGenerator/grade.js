@@ -16,4 +16,4 @@ function gradeGenerator(results) {
         }
     }
 }
-document.write(`your grade is ${gradeGenerator(results)}`);
+document.write(`your grade is: ${gradeGenerator(results)}`);
